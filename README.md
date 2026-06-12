@@ -8,7 +8,6 @@
 - 📫 How to reach me: measm2519@gmail.com
 - 🎯 My future plan is to become a Professional Full-Stack Developer
 
-# Hi! I'm Meas
 
 <div>
   <a href="https://github.com/NgetMeas22">
