@@ -1,53 +1,123 @@
+
+
+# 👋 Hi, I'm NGET MEAS
+
+<h3 align="center">
+💻 Computer Science Student | Full Stack Developer | Cambodia 🇰🇭
+</h3>
+
+---
+
 ## 🚀 A Little About Me
 
-
-- 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning PHP, Java Sprint Boot, MySQL, Laravel, Project Vue.js.
-- 👯 I’m looking to collaborate on web application projects.
-- 🤔 I’m looking for help with advanced backend development
+- 🎓 Computer Science Student at Royal University of Phnom Penh
+- 🌱 Currently learning PHP, Java Sprint Boot, MySQL, Laravel, Project Vue.js.
+- 💻 Passionate about Full Stack Development
+- 🔥 Love building Web Applications
+- 📚 Always learning new technologies
+- 🎯 Goal: Become a Professional Full Stack Developer
 - 📫 How to reach me: measm2519@gmail.com
-- 🎯 My future plan is to become a Professional Full-Stack Developer
 
+---
 
-<div>
-  <a href="https://github.com/NgetMeas22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NgetMeas22&show_icons=true&theme=dark&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&langs_count=16&theme=dark" />
-  </a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NgetMeas22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Meas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Meas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Meas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Meas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Meas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Meas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Meas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NgetMeas22&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-##
+---
 
-<div>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# 💻 Tech Stack
 
-  <br><br>
-  <img src="https://github.com/NgetMeas22/NgetMeas22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,php,laravel,java,spring,python,c,cpp,mysql,sqlite,git,github,vscode,postman,figma&perline=11" />
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,spring,react,docker,nodejs,mysql" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NgetMeas22&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NgetMeas22&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<img src="https://github.com/NgetMeas22/NgetMeas22/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=NgetMeas22&color=blueviolet&style=for-the-badge)
+
 </div>
