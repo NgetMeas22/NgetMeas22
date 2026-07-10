@@ -1,24 +1,70 @@
-
-
 # 👋 Hi, I'm NGET MEAS
 
-<h3 align="center">
-💻 Computer Science Student | Full Stack Developer | Cambodia 🇰🇭
-</h3>
+### 💻 Computer Science Student | Full Stack Developer | Cambodia 🇰🇭
+
+I'm a Computer Science student at the Royal University of Phnom Penh with a passion for building modern web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
 ---
 
 ## 🚀 A Little About Me
 
-- 🎓 Computer Science Student at Royal University of Phnom Penh
-- 🌱 Currently learning PHP, Java Sprint Boot, MySQL, Laravel, Project Vue.js.
-- 💻 Passionate about Full Stack Development
-- 🔥 Love building Web Applications
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a Professional Full Stack Developer
+- 🎓 Computer Science student at Royal University of Phnom Penh
+- 🌱 Currently learning PHP, Laravel, Java Sprint Boot, MySQL, SQLSever, Project Vue.js and TypeScript.
+- 💻 Interested in Full-Stack Web Development
+- 🚀 Building projects with PHP, Laravel, React, MySQL, and Tailwind CSS
+- 📚 Always learning new technologies and best practices
+- 🤝 Enjoy working in teams and contributing to projects
+- 🎯 Goal: Become a Professional Full-Stack Software Engineer
 - 📫 How to reach me: measm2519@gmail.com
 
 ---
+
+## 💡 What I Love
+
+- 🌐 Web Development
+- ⚡ Backend Development
+- 🎨 Frontend UI/UX
+- 🗄️ Database Design
+- 📱 Responsive Web Design
+- 🚀 Open Source
+- 📖 Continuous Learning
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Bootstrap • Vite
+
+### Backend
+PHP • Laravel • Java • Spring Boot (Learning)
+
+### Database
+MySQL • SQLite • SQL
+
+### Programming Languages
+C • C++ • Java • PHP • JavaScript • TypeScript • Python
+
+### Tools
+Git • GitHub • VS Code • Postman • Figma
+
+---
+
+## 🚀 Current Focus
+
+- 📖 Mastering Laravel
+- ☕ Learning Spring Boot
+- ⚛️ Improving React & TypeScript
+- 🏗️ Building Full-Stack Projects
+- 🧩 Writing Clean and Maintainable Code
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with other developers. Feel free to reach out!
+
+
 
 ## 📊 GitHub Stats
 
