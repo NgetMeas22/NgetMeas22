@@ -1,37 +1,37 @@
-# 👋 Hi, I'm NGET MEAS
+# Hi, I'm NGET MEAS
 
-### 💻 Computer Science Student | Full Stack Developer | Cambodia 🇰🇭
+### Computer Science Student | Full Stack Developer | Cambodia 🇰🇭
 
 I'm a Computer Science student at the Royal University of Phnom Penh with a passion for building modern web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
 ---
 
-## 🚀 A Little About Me
+##  A Little About Me
 
-- 🎓 Computer Science student at Royal University of Phnom Penh
-- 🌱 Currently learning PHP, Laravel, Java Sprint Boot, MySQL, SQLSever, Project Vue.js and TypeScript.
-- 💻 Interested in Full-Stack Web Development
-- 🚀 Building projects with PHP, Laravel, React, MySQL, and Tailwind CSS
-- 📚 Always learning new technologies and best practices
-- 🤝 Enjoy working in teams and contributing to projects
-- 🎯 Goal: Become a Professional Full-Stack Software Engineer
-- 📫 How to reach me: measm2519@gmail.com
-
----
-
-## 💡 What I Love
-
-- 🌐 Web Development
-- ⚡ Backend Development
-- 🎨 Frontend UI/UX
-- 🗄️ Database Design
-- 📱 Responsive Web Design
-- 🚀 Open Source
-- 📖 Continuous Learning
+-  Computer Science student at Royal University of Phnom Penh
+-  Currently learning PHP, Laravel, Java Sprint Boot, MySQL, SQLSever, Project Vue.js and TypeScript.
+-  Interested in Full-Stack Web Development
+-  Building projects with PHP, Laravel, React, MySQL, and Tailwind CSS
+-  Always learning new technologies and best practices
+-  Enjoy working in teams and contributing to projects
+-  Goal: Become a Professional Full-Stack Software Engineer
+-  How to reach me: measm2519@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+##  What I Love
+
+-  Web Development
+-  Backend Development
+-  Frontend UI/UX
+-  Database Design
+-  Responsive Web Design
+-  Open Source
+-  Continuous Learning
+
+---
+
+## Tech Stack
 
 ### Frontend
 HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Bootstrap • Vite
@@ -40,7 +40,7 @@ HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Bootst
 PHP • Laravel • Java • Spring Boot (Learning)
 
 ### Database
-MySQL • SQLite • SQL
+MySQL • SQLite • SQL Sever
 
 ### Programming Languages
 C • C++ • Java • PHP • JavaScript • TypeScript • Python
@@ -50,23 +50,23 @@ Git • GitHub • VS Code • Postman • Figma
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 📖 Mastering Laravel
-- ☕ Learning Spring Boot
-- ⚛️ Improving React & TypeScript
-- 🏗️ Building Full-Stack Projects
-- 🧩 Writing Clean and Maintainable Code
+-  Mastering Laravel
+-  Learning Spring Boot
+-  Improving React & TypeScript
+-  Building Full-Stack Projects
+-  Writing Clean and Maintainable Code
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always interested in learning, collaborating on projects, and connecting with other developers. Feel free to reach out!
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 🌐 Connect with Me
+#  Connect with Me
 
 <div align="center">
 
@@ -142,7 +142,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -152,7 +152,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 ---
 
-# 🐍 Contributions
+#  Contributions
 
 <div align="center">
 
