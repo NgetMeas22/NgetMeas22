@@ -1,20 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Nget Meas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:36BCF7&height=230&section=header&text=Nget%20Meas&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Student%20%C2%B7%20Cambodia&descSize=17&descAlignY=60" width="100%" alt="Nget Meas header" />
 
-**Computer Science Student · Aspiring Full-Stack Developer · Cambodia 🇰🇭**
+<a href="https://m-portfolio-one-ebon.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=720&height=45&lines=Hi%2C+I'm+Nget+Meas+%F0%9F%91%8B+%F0%9F%87%B0%F0%9F%87%AD;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+Express.js+%7C+Spring+Boot;Learning%2C+Building%2C+Improving+%F0%9F%9A%80" alt="Animated typing text" />
+</a>
 
-I build robust web applications, explore new technologies, and improve through real projects.
+<br/>
 
-<p>
-  <a href="https://m-portfolio-one-ebon.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> · 
-  <a href="https://github.com/NgetMeas22?tab=repositories" target="_blank"><strong>💻 Repositories</strong></a> · 
-  <a href="mailto:measm2519@gmail.com"><strong>✉️ Contact Me</strong></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+Express.js+%7C+Spring+Boot;Learning%2C+Building%2C+Improving" alt="Animated typing text" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:36BCF7&height=3&section=header" width="100%" alt="" />
+<a href="https://m-portfolio-one-ebon.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-36BCF7?style=for-the-badge&labelColor=0f172a" alt="Portfolio" /></a>
+<a href="https://github.com/NgetMeas22?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Repositories-Browse-1d4ed8?style=for-the-badge&labelColor=0f172a" alt="Repositories" /></a>
+<a href="mailto:measm2519@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-EA4335?style=for-the-badge&labelColor=0f172a" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=NgetMeas22&label=Profile%20views&color=36BCF7&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
 
 </div>
 
@@ -22,64 +19,90 @@ I build robust web applications, explore new technologies, and improve through r
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student at the **Royal University of Phnom Penh** in Cambodia. I am passionate about bridging design and complex system logic, turning ideas into seamless, production-ready web experiences.
+I'm a Computer Science student at the **Royal University of Phnom Penh (RUPP)**, Cambodia 🇰🇭. I enjoy bridging clean design with solid system logic, turning ideas into fast, reliable, production-ready web applications.
 
-- 🎯 **Focus:** Full-stack web development & scalable architecture
-- 🌱 **Currently learning:** Next.js, TypeScript, FastAPI, API design, and Docker
-- 🧩 **Enjoy:** Building projects, solving problems, and learning new tools
-- 🚀 **Goal:** Become a professional software engineer building reliable, performant, and user-friendly applications
-- 🌐 **Portfolio:** [m-portfolio-one-ebon.vercel.app](https://m-portfolio-one-ebon.vercel.app/)
+<table>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Full-stack web development and scalable architecture</td>
+  </tr>
+  <tr>
+    <td>🧩 <b>Enjoy</b></td>
+    <td>Building projects, solving problems, learning new tools</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Goal</b></td>
+    <td>Become a professional software engineer building reliable, performant and user-friendly software</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Frontend</b></td>
+    <td>React · Next.js · JavaScript · TypeScript · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td>⚙️ <b>Backend</b></td>
+    <td>PHP · Laravel · Express.js · Java · Spring Boot</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Databases</b></td>
+    <td>MySQL · PostgreSQL · SQL Server</td>
+  </tr>
+  <tr>
+    <td>🧰 <b>Tools</b></td>
+    <td>Git · GitHub · Postman · Docker</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Portfolio</b></td>
+    <td><a href="https://m-portfolio-one-ebon.vercel.app/">m-portfolio-one-ebon.vercel.app</a></td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Goals
+
+- 🏗️ Build real-world full-stack web applications
+- 🧠 Improve coding and problem-solving skills
+- 💎 Create reliable, user-friendly software
+- 👨‍💻 Become a professional Full-Stack Software Engineer
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Frontend & UI**
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
-  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /></a>
-  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" /></a>
-</p>
+<details open>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br/>
 
-### **Backend & APIs**
-<p>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /></a>
-  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" /></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" /></a>
-</p>
+<a href="https://github.com/NgetMeas22?tab=repositories"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite&perline=10" alt="Frontend technologies" /></a>
 
-### **Databases & Storage**
-<p>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server" /></a>
-</p>
+</details>
 
-### **Tools, Design & Workflow**
-<p>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
-</p>
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
 
-<sub><em>*FastAPI and some other technologies are currently being learned or practiced. Icons represent technologies I use or am exploring.*</em></sub>
+<a href="https://github.com/NgetMeas22?tab=repositories"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,spring,fastapi&perline=10" alt="Backend technologies" /></a>
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+<a href="https://github.com/NgetMeas22?tab=repositories"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=10" alt="Databases" /></a>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" alt="Microsoft SQL Server" />
+
+</details>
+
+<details open>
+<summary><b>🧰 Tools, Design & Workflow</b></summary>
+<br/>
+
+<a href="https://github.com/NgetMeas22?tab=repositories"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel,linux&perline=10" alt="Tools" /></a>
+
+</details>
+
+<sub><em>FastAPI, Docker and some other technologies are currently being learned or practiced.</em></sub>
 
 ---
 
@@ -90,17 +113,23 @@ I am a Computer Science student at the **Royal University of Phnom Penh** in Cam
 | **🌐 Personal Portfolio** | Modern developer portfolio showcasing my work and background. | React · Tailwind CSS · Vite | [Live Site](https://m-portfolio-one-ebon.vercel.app/) |
 | **🗓️ Daily Planner** | Web application for organizing daily schedules and productivity tasks. | PHP · MySQL · JavaScript · HTML/CSS | [Live Site](https://dailyplanner.infinityfreeapp.com/) |
 | **☕ Café Golden Leaf** | Modern, responsive interface for a local café business. | React · Vite · Tailwind CSS | [Live Site](https://ngetmeas22.github.io/Cafe-Golden/) |
-| **📂 More Projects** | Explore my repositories to see more experiments, practice, and development work. | Various | [Browse Repositories →](https://github.com/NgetMeas22?tab=repositories) |
+| **📂 More Projects** | Experiments, practice and development work. | Various | [Browse Repositories →](https://github.com/NgetMeas22?tab=repositories) |
 
 ---
 
 ## 📚 Currently Exploring & Learning
 
+<details>
+<summary><b>Click to expand my learning roadmap</b></summary>
+<br/>
+
 - 🚀 Advanced state management and performance optimization in **Next.js**
-- 🔌 Designing clean RESTful & GraphQL APIs with **Laravel**, **Express**, and **FastAPI**
+- 🔌 Designing clean RESTful & GraphQL APIs with **Laravel**, **Express** and **FastAPI**
 - 🐳 Containerizing full-stack environments with **Docker**
-- 🛡️ Advanced security patterns (Authentication, Authorization, JWT, OAuth)
-- 🗄️ Practicing SQL, relational database design, and **PostgreSQL**
+- 🛡️ Security patterns: authentication, authorization, JWT, OAuth
+- 🗄️ SQL, relational database design and **PostgreSQL**
+
+</details>
 
 ---
 
@@ -110,14 +139,22 @@ I am a Computer Science student at the **Royal University of Phnom Penh** in Cam
 
 <p>
   <a href="https://github.com/NgetMeas22">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=NgetMeas22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=NgetMeas22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/NgetMeas22">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
   </a>
 </p>
 
 <img src="https://streak-stats.demolab.com?user=NgetMeas22&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NgetMeas22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NgetMeas22&bg_color=0d1117&color=36BCF7&line=1d4ed8&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -141,11 +178,12 @@ I am a Computer Science student at the **Royal University of Phnom Penh** in Cam
   <a href="https://m-portfolio-one-ebon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/NgetMeas22"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:measm2519@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
 
-<div align="center">
-  <br>
+  <br/><br/>
+
   <strong>✨ Learn · Build · Improve 🚀 ✨</strong>
-  <br>
+  <br/>
   <sub>Thanks for visiting my GitHub profile!</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="" />
